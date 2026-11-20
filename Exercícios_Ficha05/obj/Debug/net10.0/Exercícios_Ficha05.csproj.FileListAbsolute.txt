@@ -1,0 +1,15 @@
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\bin\Debug\net10.0\Exercícios_Ficha05.exe
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\bin\Debug\net10.0\Exercícios_Ficha05.deps.json
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\bin\Debug\net10.0\Exercícios_Ficha05.runtimeconfig.json
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\bin\Debug\net10.0\Exercícios_Ficha05.dll
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\bin\Debug\net10.0\Exercícios_Ficha05.pdb
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\obj\Debug\net10.0\Exercícios_Ficha05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\obj\Debug\net10.0\Exercícios_Ficha05.AssemblyInfoInputs.cache
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\obj\Debug\net10.0\Exercícios_Ficha05.AssemblyInfo.cs
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\obj\Debug\net10.0\Exercícios_Ficha05.csproj.CoreCompileInputs.cache
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\obj\Debug\net10.0\Exercícios_Ficha05.dll
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\obj\Debug\net10.0\refint\Exercícios_Ficha05.dll
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\obj\Debug\net10.0\Exercícios_Ficha05.pdb
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\obj\Debug\net10.0\Exercícios_Ficha05.genruntimeconfig.cache
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\obj\Debug\net10.0\ref\Exercícios_Ficha05.dll
+C:\Users\joser\LESI\2 Ano\POO\Exercícios\Exercícios_Ficha05\Exercícios_Ficha05\obj\Debug\net10.0\Exerc_ci.95E04FDB.Up2Date
